@@ -17,7 +17,7 @@ def hello():
 		
 @app.route("/new")
 def hello_new():
-	return "Hello there!!!"
+	return "Hello there upgraded!!!"
 
 
 if __name__ == "__main__":
